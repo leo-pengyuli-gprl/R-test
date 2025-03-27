@@ -1,11 +1,11 @@
----
-title: "R Markdown Testing"
-output: github_document
-date: "2025-03-27"
----
+#---
+#title: "R Markdown Testing"
+#output: github_document
+#date: "2025-03-27"
+#---
 
 #+ r setup, include=FALSE
-knitr::opts_chunk$set(echo = TRUE)
+#+ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## R Markdown
