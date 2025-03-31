@@ -15,3 +15,9 @@ summary(VADeaths)
 #' this chunk, so the resulting PNG has a decent name.
 #+ dotchart
 dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
+
+print("This is the end of the report.")
+
+print("This is to amend the previous line as the same commit.")
+
+print("This is the final amendment to the commit.")
